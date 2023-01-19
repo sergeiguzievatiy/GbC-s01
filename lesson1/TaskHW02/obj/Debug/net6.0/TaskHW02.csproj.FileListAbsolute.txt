@@ -1,0 +1,15 @@
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.csproj.AssemblyReference.cache
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.GeneratedMSBuildEditorConfig.editorconfig
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.AssemblyInfoInputs.cache
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.AssemblyInfo.cs
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.csproj.CoreCompileInputs.cache
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\bin\Debug\net6.0\TaskHW02.exe
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\bin\Debug\net6.0\TaskHW02.deps.json
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\bin\Debug\net6.0\TaskHW02.runtimeconfig.json
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\bin\Debug\net6.0\TaskHW02.dll
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\bin\Debug\net6.0\TaskHW02.pdb
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.dll
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\refint\TaskHW02.dll
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.pdb
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\TaskHW02.genruntimeconfig.cache
+G:\1Моё\GB\git\GbC-s01\lesson1\TaskHW02\obj\Debug\net6.0\ref\TaskHW02.dll
