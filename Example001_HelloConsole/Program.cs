@@ -11,5 +11,5 @@ else
 {
   Console.WriteLine($"Первое число {firstNumber} не является квадратом второго числа {secondNumber}");
 }
-
+// ghjvth
   
